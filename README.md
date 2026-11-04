@@ -20,8 +20,6 @@ The current structural catalogue covers these **13 client families**:
 
 These rules look for specific class definitions and supported metadata. A client name or shared namespace alone is insufficient for a structural detection. Coverage applies to the included signatures, not every version or derivative of a client.
 
-**WI Zoom:** shared Wurst zoom code is treated as a warning when the full-client structural criteria are absent.
-
 ### Module categories
 
 Floats checks module-style class names and string vocabulary across seven categories:
